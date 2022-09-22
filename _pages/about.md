@@ -1,5 +1,5 @@
 ---
-title: '25th International Workshop on Configuration (ConfWS 2023)<br><span style="font-size: 60%;">Graz, Austria. September 2022</span>'
+title: '25th International Workshop on Configuration (ConfWS 2023)<br><span style="font-size: 60%;">Málaga, Spain. September 2023</span>'
 permalink: "/"
 header:
   overlay_image: "/assets/confws/confws-background.jpg"
