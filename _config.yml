@@ -92,7 +92,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: "/assets/confws/site-logo.png"
+og_image: "/assets/confws/confws.jpg"
 social:
   type: 
   name: 
@@ -104,7 +104,7 @@ analytics:
     anonymize_ip: false
 author:
   name: ''
-  avatar: assets/confws/confws.png
+  avatar: assets/confws/confws.jpg
   bio: What do you want to configure?...
   location:
   links:
