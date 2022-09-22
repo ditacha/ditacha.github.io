@@ -1,0 +1,16 @@
+# Academic Event
+
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Submission"
+    url: /submission/    
+  - title: "Important Dates"
+    url: /dates/     
+  - title: "Program"
+    url: /program/    
+  - title: "Committees"
+    url: /committees/    
+  - title: "History"
+    url: /history/
