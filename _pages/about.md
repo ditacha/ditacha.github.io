@@ -5,7 +5,6 @@ header:
   overlay_image: "/assets/confws/confws-background-resized.jpg"
   overlay_filter: 0.3
   caption: '[Málaga, Spain](https://www.spain.info/en/destination/malaga/)'
-  excerpt: true
 author_profile: true
 classes: wide
 redirect_from:
