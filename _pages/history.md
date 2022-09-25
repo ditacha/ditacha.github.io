@@ -19,7 +19,7 @@ Here you may find links to all previous editions of the ConfWS series, including
 - [23rd International Workshop on Configuration (ConfWS'21)](https://confws21.ist.tugraz.at/)
   - Vienna, Austria. Sep 16-17, 2021 <a href="http://ceur-ws.org/Vol-2945/" title="Proceedings"><i class="fa fa-book"></i></a>
 - [22nd International Workshop on Configuration (ConfWS'20)](http://confws20.ist.tugraz.at/ConfigurationWorkshop2020/)
-  - Online event. Sep 10-11, 2020 <a href="https://www.eventhelpr.com/files/events/RqdLM1Pt/attachments/proceedings-cws-2020_JEqWr6vY.pdf" title="Proceedings"><i class="fa fa-book"></i></a>
+  - Vicenza, Italy (Online event). Sep 10-11, 2020 <a href="https://www.eventhelpr.com/files/events/RqdLM1Pt/attachments/proceedings-cws-2020_JEqWr6vY.pdf" title="Proceedings"><i class="fa fa-book"></i></a>
 - [21th International Workshop on Configuration (ConfWS'19)](https://confws19.hitec-hamburg.de/)
   - Hamburg, Germany. Sep 19-20, 2019 <a href="http://ceur-ws.org/Vol-2467/" title="Proceedings"><i class="fa fa-book"></i></a>
 - [20th International Workshop on Configuration (ConfWS'18)](https://www.eventhelpr.com/event/h7K8dUz3vdCH87UR)
@@ -38,7 +38,7 @@ Here you may find links to all previous editions of the ConfWS series, including
   - Montpellier, France. Aug 27, 2012 <a href="http://ceur-ws.org/Vol-958/" title="Proceedings"><i class="fa fa-book"></i></a>
 - [IJCAI 2011 Workshop on Configuration (ConfWS'11)](https://ls13-www.cs.tu-dortmund.de/homepage/confws11/index.shtml)
   - Barcelona, Spain. Jul 16, 2011 <a href="http://ceur-ws.org/Vol-755/" title="Proceedings"><i class="fa fa-book"></i></a>
-- ECAI 2010 Workshop on Configuration (ConfWS'10)
+- [ECAI 2010 Workshop on Configuration (ConfWS'10)](https://www.hitec-hamburg.de/confws10/)
   - Lisbon, Portugal. Aug 16-20, 2010 
 - [IJCAI 2009 Workshop on Configuration (ConfWS'09)](https://www.ijcai.org/past/ijcai-09/)
   - Pasadena, California, USA. Jul 12-13, 2009 <a href="https://fileadmin.cs.lth.se/ai/Proceedings/configws09_proceedings.pdf" title="Proceedings"><i class="fa fa-book"></i></a>

@@ -7,9 +7,9 @@ redirect_from:
 - "/call-for-papers/"
 ---
 
-| Important dates                            |
-| -------------------- | --------------------|
-| Paper Submission     | --, 2023 (AOE time) |
-| Paper Notification   | --, 2023 (AOE time) |
-| Camera ready         | --, 2023 (AOE time) |
+| Important dates                              |
+| -------------------- | --------------------- |
+| Paper Submission     | soon, 2023 (AOE time) |
+| Paper Notification   | soon, 2023 (AOE time) |
+| Camera ready         | soon, 2023 (AOE time) |
 
