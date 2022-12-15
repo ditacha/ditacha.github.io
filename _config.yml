@@ -112,15 +112,18 @@ author:
 #  - label: University of Málaga
 #    icon: fas fa-fw fa-map-marker-alt
 #    url: https://www.uma.es/  
-  - label: Málaga Skyline logo by Miguel Sánchez Espinosa
+  - label: CAOSD group
     icon: fa fa-info-circle
-    url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
+    url: https://caosd.lcc.uma.es
   - label: Follow ConfWS on Twitter
     icon: fab fa-fw fa-twitter-square
     url: https://twitter.com/ConfigurationWS
   - label: dblp computer science bibliography
     icon: fa fa-book
     url: https://dblp.org/db/conf/confws/index.html
+  - label: Málaga Skyline logo by Miguel Sánchez Espinosa
+    icon: fa fa-info-circle
+    url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
 footer:
   links:
   - label: Twitter
