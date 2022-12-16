@@ -13,5 +13,8 @@ redirect_from:
 * Richard Comploi-Taupe, Siemens AG Österreich, Vienna, Austria
 * Lidia Fuentes Fernández, University of Málaga, Spain
 
+### Award Chair
+* Michel Aldanondo, Université de Toulouse - IMT Mines Albi, CGI Albi, France
+
 ## Program Committee
 
