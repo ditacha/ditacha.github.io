@@ -16,7 +16,7 @@ redirect_from:
 | Paper Submission     | soon, 2023 (AOE time) |
 | Paper Notification   | soon, 2023 (AOE time) |
 | Camera ready         | soon, 2023 (AOE time) |
-| Registration deadline| soon, 2022 (AOE time) |
+| Registration deadline| soon, 2023 (AOE time) |
 
 
 ## Overview

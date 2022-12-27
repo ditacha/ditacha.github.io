@@ -39,7 +39,7 @@ Here you may find links to all previous editions of the ConfWS series, including
 - [IJCAI 2011 Workshop on Configuration (ConfWS'11)](https://ls13-www.cs.tu-dortmund.de/homepage/confws11/index.shtml)
   - Barcelona, Spain. Jul 16, 2011 <a href="http://ceur-ws.org/Vol-755/" title="Proceedings"><i class="fa fa-book"></i></a>
 - [ECAI 2010 Workshop on Configuration (ConfWS'10)](https://www.hitec-hamburg.de/confws10/)
-  - Lisbon, Portugal. Aug 16-20, 2010 
+  - Lisbon, Portugal. Aug 16, 2010 <a href="https://d1wqtxts1xzle7.cloudfront.net/45477316/A_Generative_Framework_for_Service_Proce20160509-20036-1mgysgc-libre.pdf?1462798873=&response-content-disposition=inline%3B+filename%3DA_Generative_Framework_for_Service_Proce.pdf&Expires=1672182004&Signature=CdA3RYnquRO6sg~9rNBLaMzOSC3TPD167p6i-ArBX82vprtWpIguQ3Db93OZI14yT1zuNhgG6Gfgpyg4eIJFvXsEBrr2UN-~kVaYQ4I8a-Ewcmlwz1iRTqC9mbkopiMwck6WCAJ9rjUcwjP2OuH7tspWYcSdJymE4semVsMBoa8szUo57Z5e6rnNeG~g-diFe~RzMLOWoPW90d5eRIS-vaKHEtnRdVvlAuhFRhylE4K19xieytoaQlMwsk0H8lg3DqEGW5b2m21Lw50Ydrut0cqEMW0WigFP-S6GhkFeAwfakM1A1r-xdnIdLeyzD3htpTu69Q6r5KqJKRZgf5PLaQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=1" title="Proceedings"><i class="fa fa-book"></i></a>
 - [IJCAI 2009 Workshop on Configuration (ConfWS'09)](https://www.ijcai.org/past/ijcai-09/)
   - Pasadena, California, USA. Jul 12-13, 2009 <a href="https://fileadmin.cs.lth.se/ai/Proceedings/configws09_proceedings.pdf" title="Proceedings"><i class="fa fa-book"></i></a>
 - [ECAI 2008 Workshop on Configuration Systems](http://www.soberit.hut.fi/configws08/)
