@@ -52,10 +52,14 @@ Configuration tools, design tools, application reports, new application domains 
 ## Paper Submission
 - **Full papers** are limited to 10 pages (including references). 
 - **Position statements** and **problem instances** can be submitted as **short papers** limited to 4 pages (including references). 
+- **Published articles:** It is possible to submit already published or submitted articles. In that case, submit both a **one-page abstract** (600 words) and the article, and take note that the article will not be included in the proceedings. A limited number (max 4) of already published articles will be accepted.
 
-**Website Submission:** Papers should be submitted to [EasyChair](https://easychair.org/my/conference?conf=confws23).
+Each submission will be subject to peer review by at least two members of the program committee. Refereeing criteria are relevance to workshop topics, significance and novelty of the research, technical content, discussion of relationship to previous work, and clarity of presentation. A contribution submitted as a full paper may be accepted as a short paper, if the program committee considers it to be inadequate for a long full paper but to present an important issue. 
+{: .text-justify}
 
-**Formatting guildelines:** Both full and short papers must be formatted in PDF according to the new [CEUR-ART style](https://ceur-ws.org/Vol-XXX/) using the two-columns template.
+**Website submission:** Papers should be submitted to [EasyChair](https://easychair.org/my/conference?conf=confws23).
+
+**Formatting guidelines:** Both full and short papers must be formatted in PDF according to the new [CEUR-ART style](https://ceur-ws.org/Vol-XXX/) using the two-columns template.
 - [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk)
 - [Latex template](http://ceur-ws.org/Vol-XXX/CEURART.zip)
 - [DOCX template](https://ceur-ws.org/Vol-XXX/CEUR-Template-2col.docx)
@@ -71,10 +75,6 @@ Latex users should modify the following code placed at the start of the Latex do
 Word users should modify the same information at the bottom of the first page.
 
 **Publication:**
-Each submission will be subject to peer review by at least two members of the program committee. Refereeing criteria are relevance to workshop topics, significance and novelty of the research, technical content, discussion of relationship to previous work, and clarity of presentation. A contribution submitted as a full paper may be accepted as a short paper, if the program committee considers it to be inadequate for a long full paper but to present an important issue. 
-It is possible to submit already published or submitted articles. In that case, submit both a one-page abstract (600 words) and the article, and take note that the article will not be included in the proceedings. A limited number (max 4) of already published articles will be accepted.
-{: .text-justify}
-
 The proceedings will be published in the [CEUR Workshop Proceedings library](CEUR-WS.org). 
 
 At least one author of each accepted paper must register and present the paper in ConfWS'23 in order for the submission to be published.
