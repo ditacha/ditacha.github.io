@@ -13,9 +13,9 @@ redirect_from:
 
 | Important dates                              |
 | -------------------- | --------------------- |
-| Paper Submission     | soon, 2023 (AOE time) |
-| Paper Notification   | soon, 2023 (AOE time) |
-| Camera ready         | soon, 2023 (AOE time) |
+| Paper Submission     | May 26, 2023 (AOE time) |
+| Paper Notification   | June 23, 2023 (AOE time) |
+| Camera ready         | July 7, 2023 (AOE time) |
 | Registration deadline| soon, 2023 (AOE time) |
 
 

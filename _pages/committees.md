@@ -17,4 +17,13 @@ redirect_from:
 * Michel Aldanondo, Université de Toulouse - IMT Mines Albi, CGI Albi, France
 
 ## Program Committee
-
+* Lothar Hotz, Hamburger Informatik Technologie-Center, Germany
+* Alexander Felfernig, Graz University of Technology, Austria
+* Elise Vareilles, ISAE SUPAERO Toulouse, France
+* Yue Wang, Hang Seng University, Hong Kong
+* Ángel Jesús Varela Vaca, University of Seville, Spain
+* Albert Haag, Product Management GmbH, Germany
+* Andreas Falkner, Siemens AG Österreich, Vienna, Austria
+* Abdourahim Sylla, Université Grenoble Alpes, France
+* Gerhard Friedrich, Alpen-Adria-Universität Klagenfurt, Austria
+* To be completed...
