@@ -53,7 +53,7 @@ Here you may find links to all previous editions of the ConfWS series, including
 - ECAI 2004 Workshop on Configuration
   - Valencia, Spain. Aug 22-27, 2004
 - [IJCAI 2003 Workshop on Configuration](https://www.ijcai.org/past/ijcai-03/1024/index.html)
-  - Acapulco, Mexico. Aug 9-11, 2003
+  - Acapulco, Mexico. Aug 11, 2003
 - [ECAI 2002 Workshop on Configuration](https://frontiersinai.com/ecai/ecai2002/)
   - Lyon, France. Jul 22-23, 2002 <a href="https://hal-mines-albi.archives-ouvertes.fr/hal-01920372/document" title="Proceedings"><i class="fa fa-book"></i></a>
 - [IJCAI 2001 Workshop on Configuration](http://www.soberit.hut.fi/pdmg/IJCAI2001ConfWS/)

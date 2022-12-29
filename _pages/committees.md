@@ -18,12 +18,14 @@ redirect_from:
 
 ## Program Committee
 * Lothar Hotz, Hamburger Informatik Technologie-Center, Germany
-* Alexander Felfernig, Graz University of Technology, Austria
+* Ángel Jesús Varela Vaca, University of Seville, Spain
+* Abdourahim Sylla, Université Grenoble Alpes, France
+* Andreas Falkner, Siemens AG Österreich, Vienna, Austria
 * Elise Vareilles, ISAE SUPAERO Toulouse, France
 * Yue Wang, Hang Seng University, Hong Kong
-* Ángel Jesús Varela Vaca, University of Seville, Spain
-* Albert Haag, Product Management GmbH, Germany
-* Andreas Falkner, Siemens AG Österreich, Vienna, Austria
-* Abdourahim Sylla, Université Grenoble Alpes, France
 * Gerhard Friedrich, Alpen-Adria-Universität Klagenfurt, Austria
+* Alexander Felfernig, Graz University of Technology, Austria
+* Albert Haag, Product Management GmbH, Germany
+* Lars Hvam, Technical University of Denmark, Denmark
+* Sara Shafiee, Technical University of Denmark, Denmark
 * To be completed...
