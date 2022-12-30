@@ -28,4 +28,6 @@ redirect_from:
 * Albert Haag, Product Management GmbH, Germany
 * Lars Hvam, Technical University of Denmark, Denmark
 * Sara Shafiee, Technical University of Denmark, Denmark
+* Franz Wotawa, Graz University of Technology, Austria
+* David Benavides, University of Seville, Spain
 * To be completed...
