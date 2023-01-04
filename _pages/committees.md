@@ -30,4 +30,9 @@ redirect_from:
 * Sara Shafiee, Technical University of Denmark, Denmark
 * Franz Wotawa, Graz University of Technology, Austria
 * David Benavides, University of Seville, Spain
+* Tomas Axling, Tacton, Sweden
+* Tomi Mänistö, University of Helsinki, Finland
+* Jean-Guillaume Fages, Cosling, France
+* Enrico Sandrin, University of Padova, Italy
+* Thorsten Krebs, Encoway, Germany
 * To be completed...
