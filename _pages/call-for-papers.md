@@ -23,7 +23,7 @@ redirect_from:
 **Configuration** is as a special type of design approach where the product being configured is composed from instances of a set of predefined component types that can be combined in ways defined by a set of constraints. This task requires powerful knowledge representation formalisms and acquisition methods to capture the variety and complexity of configurable products. Furthermore, efficient reasoning methods are required to support intelligent interactive behavior, solution search, satisfaction of user preferences, personalization, optimization, reconfiguration, and diagnosis.
 {: .text-justify}
 
-The main goal of the workshop is to promote high-quality research in all technical areas related to configuration. The workshop is of interest for both researchers working in the various fields of applicable technologies and industry representatives interested in the relationship between configuration technology and the business problem behind configuration and mass customization.
+The main goal of the workshop is to promote high-quality research in all technical areas related to configuration. The workshop is of interest for both researchers working in the various fields of applicable technologies and industry representatives interested in the relationship between configuration technology and the business problems behind configuration and mass customization.
 {: .text-justify}
 
 ## Topics
@@ -42,7 +42,7 @@ Constraint satisfaction problems (CSPs) and extensions, preference based reasoni
 {: .text-justify}
 
 - **Intelligent User Interfaces and Business Process Integration.**
-Personalization, explanations, recommender technologies, configuration web services, related software architectures, distributed configuration. Integration into the production and selling process, Configuration for pick-to-order, assemble-to-order, make-to-order, engineer-ot-order. Product configuration and mass customization.
+Personalization, explanations, recommender technologies, configuration web services, related software architectures, distributed configuration. Integration into the production and selling process, Configuration for pick-to-order, assemble-to-order, make-to-order, engineer-to-order. Product configuration and mass customization.
 {: .text-justify}
 
 - **Applications and Tools.**
@@ -75,7 +75,7 @@ Latex users should modify the following code placed at the start of the Latex do
 Word users should modify the same information at the bottom of the first page.
 
 **Publication:**
-The proceedings will be published in the [CEUR Workshop Proceedings library](CEUR-WS.org). 
+The proceedings will be published in the [CEUR Workshop Proceedings library](https://ceur-ws.org/). 
 
 At least one author of each accepted paper must register and present the paper in ConfWS'23 in order for the submission to be published.
 
