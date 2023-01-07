@@ -35,4 +35,5 @@ redirect_from:
 * Jean-Guillaume Fages, Cosling, France
 * Enrico Sandrin, University of Padova, Italy
 * Thorsten Krebs, Encoway, Germany
+* Chiara Grosso, University of Milan Bicocca, Italy
 * To be completed...
