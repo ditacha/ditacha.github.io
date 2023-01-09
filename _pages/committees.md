@@ -36,4 +36,5 @@ redirect_from:
 * Enrico Sandrin, University of Padova, Italy
 * Thorsten Krebs, Encoway, Germany
 * Chiara Grosso, University of Milan Bicocca, Italy
+* Alois Haselboeck, Siemens, Austria
 * To be completed...
