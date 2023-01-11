@@ -37,4 +37,5 @@ redirect_from:
 * Thorsten Krebs, Encoway, Germany
 * Chiara Grosso, University of Milan Bicocca, Italy
 * Alois Haselboeck, Siemens, Austria
+* Markus Stumptner, University of South Australia, Australia
 * To be completed...
