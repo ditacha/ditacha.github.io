@@ -38,4 +38,5 @@ redirect_from:
 * Chiara Grosso, University of Milan Bicocca, Italy
 * Alois Haselboeck, Siemens, Austria
 * Markus Stumptner, University of South Australia, Australia
+* Mónica Pinto, University of Málaga, Spain
 * To be completed...
