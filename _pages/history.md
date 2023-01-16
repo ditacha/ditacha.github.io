@@ -8,7 +8,7 @@ classes: wide
 
 ---
 Configuration Workshops (ConfWS) started at the AAAI'96 Fall Symposium and continued on AAAI, ECAI, and IJCAI conferences since 1999.
-In 2013, the workshop was a stand-alone event for the first time, and has been co-colated with relevant international conferences such as PC 2016 and SPLC 2022.
+In 2013, the workshop was a stand-alone event for the first time, and has been co-located with relevant international conferences such as PC 2016 and SPLC 2022.
 
 Here you may find links to all previous editions of the ConfWS series, including their proceedings <i class="fa fa-book"></i>, if available.
 

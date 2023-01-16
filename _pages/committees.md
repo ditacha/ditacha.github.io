@@ -39,4 +39,3 @@ redirect_from:
 * Alois Haselboeck, Siemens, Austria
 * Markus Stumptner, University of South Australia, Australia
 * Mónica Pinto, University of Málaga, Spain
-* To be completed...
