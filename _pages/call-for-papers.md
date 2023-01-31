@@ -17,6 +17,7 @@ redirect_from:
 | Paper Notification   | June 23, 2023 (AOE time) |
 | Camera ready         | July 7, 2023 (AOE time) |
 | Registration deadline| soon, 2023 (AOE time) |
+| Workshop             | Sep 6-7, 2023 (AOE time) |
 
 
 ## Overview
