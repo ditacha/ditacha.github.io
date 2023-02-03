@@ -15,8 +15,8 @@ redirect_from:
 **25th International Workshop on Configuration (ConfWS 2023)**
 
 ---
-September 6 – 7, 2023
-Venue: E.T.S. Ingeniería Informática, Universidad de Málaga, Spain
+- September 6 – 7, 2023
+- Venue: E.T.S. Ingeniería Informática, Universidad de Málaga, Spain
 
 Beside researchers from a variety of configuration-related fields, the workshop has always attracted a significant number of participants from industry (major configurator vendors as well as application developers).
 
