@@ -70,7 +70,7 @@ Latex users should modify the following code placed at the start of the Latex do
 
 ```
 \copyrightyear{2023}
-\conference{ConfWS'23: 25th International Workshop on Configuration, Sep 7--8, 2023, Málaga, Spain}
+\conference{ConfWS'23: 25th International Workshop on Configuration, Sep 6--7, 2023, Málaga, Spain}
 ```
 
 Word users should modify the same information at the bottom of the first page.
