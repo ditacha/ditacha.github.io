@@ -18,7 +18,7 @@ The workshop will be hosted at the [**School of Informatics (E.T.S. Ingeniería 
 
 - **By metro:** **Line L1**, station: Clínico (best option).
 
-A direct line (L1) which you can take from the *Málaga City Train Station (María Zambrano - Vialia)* whose name of the metro station is *"Perchel"* direction to *"Andalucia Tech"*. You should stop at *"Clínico"* stop and walk 1 minute to the E.T.S. Ingeniería Informática which you can see from the station.
+A direct line (L1) which you can take from Málaga downtown whose name of the metro station is *Atarazanas*, or from the *Málaga City Train Station (María Zambrano - Vialia)* whose name of the metro station is *"Perchel"* direction to *"Andalucia Tech"*. You should stop at *"Clínico"* stop and walk 1 minute to the E.T.S. Ingeniería Informática which you can see from the station.
 
 - **By bus:** **Line 11** (best option), also line 8 and line 25.
 
@@ -28,7 +28,7 @@ There are several lines that take you from Málaga downtown to the University, b
 
 There are taxi racks at the door or most hotels or very close to them. The duration of the trip by taxi from the city centre to the E.T.S. Ingeniería Informática is around 10 minutes (it goes up to 15 min. in early in the morning and in the afternoon), and costs around 10/15€.
 
--**From the airport:** Málaga Airport is connected to the station via *Cercania* services that takes you to the *Málaga City Train Station (María Zambrano - Vialia)*.
+- **From the airport:** Málaga Airport is connected to the station via *Cercania* services that takes you to the *Málaga City Train Station (María Zambrano - Vialia)*.
 
 
 

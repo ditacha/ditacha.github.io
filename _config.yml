@@ -112,7 +112,7 @@ author:
 #  - label: University of Málaga
 #    icon: fas fa-fw fa-map-marker-alt
 #    url: https://www.uma.es/  
-  - label: "Local organizer: CAOSD group, University of Málaga"
+  - label: "Local organizer: CAOSD group"
     icon: fa fa-info-circle
     url: https://caosd.lcc.uma.es
   # - label: "ITIS Software"
