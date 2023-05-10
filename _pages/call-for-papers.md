@@ -55,6 +55,8 @@ Configuration tools, design tools, application reports, new application domains 
 - **Position statements** and **problem instances** can be submitted as **short papers** limited to 4 pages (including references). 
 - **Published articles:** It is possible to submit already published or submitted articles. In that case, submit both a **one-page abstract** (600 words) and the article, and take note that the article will not be included in the proceedings. A limited number (max 4) of already published articles will be accepted.
 
+Full and short papers submitted to ConfWS 2023 must be original. The submission, or a highly similar version of it, cannot have been published or accepted in a journal or another conference proceedings. Further, submissions must not be concurrently under consideration for publication or presentation elsewhere. In this case, consider to submit your work as a **published article** (one-page abstract).
+
 Each submission will be subject to peer review by at least two members of the program committee. Refereeing criteria are relevance to workshop topics, significance and novelty of the research, technical content, discussion of relationship to previous work, and clarity of presentation. A contribution submitted as a full paper may be accepted as a short paper, if the program committee considers it to be inadequate for a long full paper but to present an important issue. 
 {: .text-justify}
 
