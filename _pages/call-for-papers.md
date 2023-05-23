@@ -21,7 +21,7 @@ redirect_from:
 
 
 ## Overview
-**Configuration** is as a special type of design approach where the product being configured is composed from instances of a set of predefined component types that can be combined in ways defined by a set of constraints. This task requires powerful knowledge representation formalisms and acquisition methods to capture the variety and complexity of configurable products. Furthermore, efficient reasoning methods are required to support intelligent interactive behavior, solution search, satisfaction of user preferences, personalization, optimization, reconfiguration, and diagnosis.
+**Configuration** is a special type of design approach where the product being configured is composed from instances of a set of predefined component types that can be combined in ways defined by a set of constraints. This task requires powerful knowledge representation formalisms and acquisition methods to capture the variety and complexity of configurable products. Furthermore, efficient reasoning methods are required to support intelligent interactive behavior, solution search, satisfaction of user preferences, personalization, optimization, reconfiguration, and diagnosis.
 {: .text-justify}
 
 The main goal of the workshop is to promote high-quality research in all technical areas related to configuration. The workshop is of interest for both researchers working in the various fields of applicable technologies and industry representatives interested in the relationship between configuration technology and the business problems behind configuration and mass customization.
