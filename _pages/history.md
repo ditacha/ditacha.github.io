@@ -51,7 +51,7 @@ Here you may find links to all previous editions of the ConfWS series, including
 - [IJCAI 2005 Workshop on Configuration](https://www.ijcai.org/past/ijcai-05/)
   - Edinburgh, United Kingdom. Jul 30, 2005 <a href="https://web-ainf.aau.at/pub/jannach/files/Proceedings_ConfigurationWorkshop2004.pdf" title="Proceedings"><i class="fa fa-book"></i></a>
 - ECAI 2004 Workshop on Configuration
-  - Valencia, Spain. Aug 22-27, 2004
+  - Valencia, Spain. Aug 23, 2004
 - [IJCAI 2003 Workshop on Configuration](https://www.ijcai.org/past/ijcai-03/1024/index.html)
   - Acapulco, Mexico. Aug 11, 2003
 - [ECAI 2002 Workshop on Configuration](https://frontiersinai.com/ecai/ecai2002/)
