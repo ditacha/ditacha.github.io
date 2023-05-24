@@ -22,7 +22,7 @@ redirect_from:
 | 17:30-18:30 | Cibersecurity in industry 4.0 |
 | 18:30-19:30 | PhD consortium (II) |
 
-| Friday 26 May 2023  |
+| Friday 26 May 2023   |
 | :----------------- | :----------------- |
 | 09:00-09:30 | Registration - Opening day 2 |
 | 09:30-10:30 | AI based recommender systems for digital transformation |
