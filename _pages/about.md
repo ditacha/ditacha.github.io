@@ -18,9 +18,7 @@ redirect_from:
 - May 25 – 26, 2023
 - Venue: E.T.S. Ingeniería Informática, Universidad de Sevilla, Spain
 
-Beside researchers from a variety of configuration-related fields, the workshop has always attracted a significant number of participants from industry (major configurator vendors as well as application developers).
-
-The main goal of the workshop is to promote high-quality research in all technical areas related to configuration and to bring together researchers and practitioners from industry and academia. The workshop is of interest for both researchers working in the various fields of applicable technologies and industry representatives interested in the relationship between configuration technology and the business problem behind configuration and mass customization.
+Digital transformation is revolutionizing human progress, but it also presents challenges. The adoption of advanced technologies like AI and IoT enhances efficiency and improves lives. However, the digital divide poses a challenge, as some lack access to technology and digital skills. Job displacement and the need for reskilling are additional hurdles. Data privacy and cybersecurity concerns arise with increased reliance on digital systems. Overcoming these challenges requires equitable access to technology, promoting digital literacy, developing new skills, and ensuring robust security measures. With proper measures, digital transformation can empower human advancement and create a more inclusive and secure future.
 
 ---
 
