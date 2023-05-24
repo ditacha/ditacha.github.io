@@ -1,10 +1,10 @@
 ---
-title: '25th International Workshop on Configuration (ConfWS 2023)<br><span style="font-size: 60%;">Málaga, Spain. Sep 6-7, 2023</span>'
+title: '1st Digital Transformation on the Future Workshop (DITACHA 2023)<br><span style="font-size: 60%;">Sevilla, Spain. May 25-26, 2023</span>'
 permalink: "/"
 header:
   overlay_image: "/assets/confws/confws-background-resized.jpg"
   overlay_filter: 0.3
-  caption: '[Málaga, Spain](https://www.spain.info/en/destination/malaga/)'
+  caption: '[Sevilla, Spain](https://www.spain.info/en/destination/seville/)'
 author_profile: true
 classes: wide
 redirect_from:
@@ -12,11 +12,11 @@ redirect_from:
 - "/about.html"
 ---
 
-**25th International Workshop on Configuration (ConfWS 2023)**
+**1st Digital Transformation on the Future Workshop (DITACHA 2023)**
 
 ---
-- September 6 – 7, 2023
-- Venue: E.T.S. Ingeniería Informática, Universidad de Málaga, Spain
+- May 25 – 26, 2023
+- Venue: E.T.S. Ingeniería Informática, Universidad de Sevilla, Spain
 
 Beside researchers from a variety of configuration-related fields, the workshop has always attracted a significant number of participants from industry (major configurator vendors as well as application developers).
 
@@ -24,5 +24,5 @@ The main goal of the workshop is to promote high-quality research in all technic
 
 ---
 
-![ConfWS will be at Málaga](/assets/confws/confws-background.jpg "ConfWS will be at Málaga")
+![DITACHA will be at Sevilla](/assets/confws/ditacha-background.jpg "DITACHA will be at Sevilla")
 
