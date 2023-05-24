@@ -16,10 +16,6 @@ The workshop will be hosted at the [**School of Informatics (E.T.S. Ingeniería 
 
 ## How to arrive
 
-- **By metro:** **Line L1**, station: Clínico (best option).
-
-A direct line (L1) which you can take from Málaga downtown whose name of the metro station is *Atarazanas*, or from the *Málaga City Train Station (María Zambrano - Vialia)* whose name of the metro station is *"Perchel"* direction to *"Andalucia Tech"*. You should stop at *"Clínico"* stop and walk 1 minute to the E.T.S. Ingeniería Informática which you can see from the station.
-
 - **By bus:** **Line 11** (best option), also line 8 and line 25.
 
 There are several lines that take you from Málaga downtown to the University, but probably the best one is #11. Buses run every 10-15 min and the duration of the trip is between 15 and 20 min., depending on the traffic. Coming from Málaga downtown you can take it at the Alameda Avenue. The final stop is *"Hospital Clínico"*, where you should get off to go to the conference venue (the hospital is in front of the E.T.S. Ingeniería Informática). The E.T.S. Ingeniería Informática is 50 meters away from the bus stop, you will see the building when you get off the bus. Bus#11 is also the bus you can take to go back to the city centre. 
