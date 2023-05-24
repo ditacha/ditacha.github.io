@@ -6,13 +6,13 @@ sitemap: false
 classes: wide
 ---
 
-The workshop will be hosted at the [**School of Informatics (E.T.S. Ingeniería Informática)**](https://www.uma.es/ETSI-informatica) of the [University of Málaga (UMA)](https://www.uma.es/), located at the Campus de Teatinos.
+The workshop will be hosted at the [**School of Informatics (E.T.S. Ingeniería Informática)**](https://www.informatica.us.es/) of the [University of Sevilla (US)](https://www.us.es/), located at the Campus of Reina Mercedes.
 
 ![E.T.S. Ingeniería Informática](/assets/confws/etsii.jpg)
 
-**Address:** [Bulevar Louis Pasteur, 35. Campus de Teatinos. 29071 Málaga, Spain](https://goo.gl/maps/bQ4AaYJxLaf2Qkqc7).
+**Address:** [Avenida de la Reina Mercedes, s/n, 41012 Sevilla, Spain](https://goo.gl/maps/LQ1YsgDudYT4nWKh8).
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3198.313861364173!2d-4.482631087303145!3d36.715022691025084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72f74b9f3606f1%3A0x9fa32cc2e6b0bbf9!2sE.T.S.%20de%20Ingenier%C3%ADa%20Inform%C3%A1tica!5e0!3m2!1ses!2ses!4v1677170209494!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=es&amp;q=37.358313012838614,%20-5.986933630446212+(Mi%20nombre%20de%20egocios)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" width="100%" height="600" frameborder="0"></iframe>
 
 ## How to arrive
 
