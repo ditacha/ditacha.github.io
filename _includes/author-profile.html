@@ -243,19 +243,4 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
-
-  <h2></h2>
-  Official Sponsors:
-
-  {% if author.sponsors %}
-    {% for sponsor in author.sponsors %}
-      {% if sponsor.logo %}
-      <div class="author__avatar">
-        <a href="{{ sponsor.url | default: '/' | absolute_url }}">
-          <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }}" itemprop="image" class="u-photo">
-        </a>
-      </div>
-      {% endif %}
-    {% endfor %}
-  {% endif %}
 </div>

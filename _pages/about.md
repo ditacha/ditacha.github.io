@@ -1,5 +1,5 @@
 ---
-title: '1st Digital Transformation on the Future Workshop (DITACHA 2023)<br><span style="font-size: 60%;">Sevilla, Spain. May 25-26, 2023</span>'
+title: '1st Digital Transformation Advances and Challenges Workshop (DITACHA 2023)<br><span style="font-size: 60%;">Sevilla, Spain. May 25-26, 2023</span>'
 permalink: "/"
 header:
   overlay_image: "/assets/confws/confws-background-resized.jpg"
@@ -12,7 +12,7 @@ redirect_from:
 - "/about.html"
 ---
 
-**1st Digital Transformation on the Future Workshop (DITACHA 2023)**
+**1st Digital Transformation Advances and Challenges Workshop (DITACHA 2023)**
 
 ---
 - May 25 – 26, 2023
