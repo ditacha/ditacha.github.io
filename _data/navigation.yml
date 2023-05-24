@@ -3,18 +3,8 @@
 # main links
 main:
   - title: "Home"
-    url: /
-  - title: "Call for Papers"
-    url: /call-for-papers/    
-  #- title: "Important Dates"
-  #  url: /dates/     
+    url: /  
   - title: "Program"
     url: /program/    
-  - title: "Registration"
-    url: /registration/
   - title: "Venue"
     url: /venue/   
-  - title: "Committees"
-    url: /committees/    
-  - title: "History"
-    url: /history/
