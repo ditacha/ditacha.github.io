@@ -36,11 +36,11 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: air
 locale: en-US
 title_separator: "-"
-name: 25th International Workshop on Configuration (ConfWS'23)
-description: Website of the 25th International Workshop on Configuration (ConfWS'23)
-url: https://confws.github.io
+name: 1st Digital Transformation Advances and Challenges Workshop (DITACHA 2023)
+description: Website of the 1st Digital Transformation Advances and Challenges Workshop (DITACHA 2023)
+url: https://ditacha.github.io/
 baseurl: 
-repository: confws/confws.github.io
+repository: ditacha/ditacha.github.io
 teaser: 
 logo: assets/confws/confws-transparent.png 
 #masthead_title: ConfWS 2023
@@ -104,38 +104,38 @@ analytics:
     anonymize_ip: false
 author:
   name: ''
-  avatar: assets/confws/uma-logo-transparent.png
+  avatar: assets/confws/us-logo.png
   bio: ''
-  home: 'https://www.uma.es/'
+  home: 'https://www.us.es/'
   location:
-  links:
+#     links:
 #  - label: University of Málaga
 #    icon: fas fa-fw fa-map-marker-alt
 #    url: https://www.uma.es/  
-  - label: "Local organizer: CAOSD group"
-    icon: fa fa-info-circle
-    url: https://caosd.lcc.uma.es
+  #   - label: "Local organizer: CAOSD group"
+  #     icon: fa fa-info-circle
+  #     url: https://caosd.lcc.uma.es
   # - label: "ITIS Software"
   #   icon: fa fa-info-circle
   #   url: https://itis.uma.es/
-  - label: Follow ConfWS on Twitter
-    icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/ConfigurationWS
-  - label: "ConfWS: dblp computer science bibliography"
-    icon: fa fa-book
-    url: https://dblp.org/db/conf/confws/index.html
-  - label: Málaga Skyline logo by Miguel Sánchez Espinosa
-    icon: fa fa-info-circle
-    url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
-  sponsors: 
-    - name: 'Siemens'
-      logo: assets/confws/siemens-logo.png
-      url: https://www.siemens.com/global/en.html
-footer:
-  links:
-  - label: Twitter
-    icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/ConfigurationWS
+  #   - label: Follow ConfWS on Twitter
+  #     icon: fab fa-fw fa-twitter-square
+  #     url: https://twitter.com/ConfigurationWS
+  #   - label: "ConfWS: dblp computer science bibliography"
+  #     icon: fa fa-book
+  #     url: https://dblp.org/db/conf/confws/index.html
+  #   - label: Málaga Skyline logo by Miguel Sánchez Espinosa
+  #     icon: fa fa-info-circle
+  #     url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
+  #   sponsors: 
+  #     - name: 'Siemens'
+  #       logo: assets/confws/siemens-logo.png
+  #       url: https://www.siemens.com/global/en.html
+   footer:
+#     links:
+#     - label: Twitter
+#       icon: fab fa-fw fa-twitter-square
+#       url: https://twitter.com/ConfigurationWS
 include:
 - ".htaccess"
 - _pages
